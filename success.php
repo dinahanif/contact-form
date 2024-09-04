@@ -1,5 +1,3 @@
-cd /mnt/data/233140700111102_Dina_Hanifa_T3E_Tugas_2/
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
